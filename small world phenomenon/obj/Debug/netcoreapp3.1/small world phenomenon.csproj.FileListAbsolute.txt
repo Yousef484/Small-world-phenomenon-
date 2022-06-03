@@ -1,0 +1,13 @@
+E:\small world phenomenon\small world phenomenon\obj\Debug\netcoreapp3.1\small world phenomenon.csproj.AssemblyReference.cache
+E:\small world phenomenon\small world phenomenon\obj\Debug\netcoreapp3.1\small world phenomenon.AssemblyInfoInputs.cache
+E:\small world phenomenon\small world phenomenon\obj\Debug\netcoreapp3.1\small world phenomenon.AssemblyInfo.cs
+E:\small world phenomenon\small world phenomenon\obj\Debug\netcoreapp3.1\small world phenomenon.csproj.CoreCompileInputs.cache
+E:\small world phenomenon\small world phenomenon\bin\Debug\netcoreapp3.1\small world phenomenon.exe
+E:\small world phenomenon\small world phenomenon\bin\Debug\netcoreapp3.1\small world phenomenon.deps.json
+E:\small world phenomenon\small world phenomenon\bin\Debug\netcoreapp3.1\small world phenomenon.runtimeconfig.json
+E:\small world phenomenon\small world phenomenon\bin\Debug\netcoreapp3.1\small world phenomenon.runtimeconfig.dev.json
+E:\small world phenomenon\small world phenomenon\bin\Debug\netcoreapp3.1\small world phenomenon.dll
+E:\small world phenomenon\small world phenomenon\bin\Debug\netcoreapp3.1\small world phenomenon.pdb
+E:\small world phenomenon\small world phenomenon\obj\Debug\netcoreapp3.1\small world phenomenon.dll
+E:\small world phenomenon\small world phenomenon\obj\Debug\netcoreapp3.1\small world phenomenon.pdb
+E:\small world phenomenon\small world phenomenon\obj\Debug\netcoreapp3.1\small world phenomenon.genruntimeconfig.cache

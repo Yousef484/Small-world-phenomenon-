@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "small world phenomenon", "small world phenomenon\small world phenomenon.csproj", "{BCCF2749-A955-4AF7-A777-84E7F51DF46C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCCF2749-A955-4AF7-A777-84E7F51DF46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCF2749-A955-4AF7-A777-84E7F51DF46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCF2749-A955-4AF7-A777-84E7F51DF46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCF2749-A955-4AF7-A777-84E7F51DF46C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F07AB25F-484A-4B72-87EE-2FB15CBE746B}
+	EndGlobalSection
+EndGlobal
